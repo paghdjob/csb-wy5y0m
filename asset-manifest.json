@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://paghdjob.github.io/csb-wy5y0m/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://paghdjob.github.io/csb-wy5y0m/static/js/main.b70e43f1.chunk.js",
+    "main.js.map": "https://paghdjob.github.io/csb-wy5y0m/static/js/main.b70e43f1.chunk.js.map",
+    "runtime-main.js": "https://paghdjob.github.io/csb-wy5y0m/static/js/runtime-main.5eac02d1.js",
+    "runtime-main.js.map": "https://paghdjob.github.io/csb-wy5y0m/static/js/runtime-main.5eac02d1.js.map",
+    "static/js/2.b0504009.chunk.js": "https://paghdjob.github.io/csb-wy5y0m/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://paghdjob.github.io/csb-wy5y0m/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://paghdjob.github.io/csb-wy5y0m/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://paghdjob.github.io/csb-wy5y0m/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://paghdjob.github.io/csb-wy5y0m/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eac02d1.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b70e43f1.chunk.js"
+  ]
+}
